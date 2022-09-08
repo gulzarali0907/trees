@@ -1,0 +1,16 @@
+body {
+    color: blueviolet;
+    font-family: Algerian;
+    font-style: bold;
+    font-style: italic;
+    padding: 5px;
+    text-align: center;
+}
+button {
+    color: red;
+    font-family: Algerian;
+    font-style: bold;
+    font-style: italic;
+    padding: 5px;
+    background-color: black;
+}
